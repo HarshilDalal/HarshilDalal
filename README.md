@@ -73,8 +73,8 @@ I work AI-natively: Claude Code, MCP, and agentic workflows are part of my daily
 | Claude Code 101 + Claude Code in Action | Anthropic |
 | Model Context Protocol — Introduction & Advanced | Anthropic |
 | Subagents & Agentic Workflows | Anthropic |
-| Amazon Bedrock | AWS |
-| Google Vertex AI | Google Cloud |
+| Claude with Amazon Bedrock | Anthropic |
+| Claude with Google Vertex AI | Anthropic |
 | Edge AI Developer | Intel |
 
 ---
